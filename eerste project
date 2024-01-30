@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mijn GitHub Pages-website</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welkom op mijn GitHub Pages-website</h1>
+    </header>
+
+    <section>
+        <h2>Over Mij</h2>
+        <p>Hier kun je een korte beschrijving van jezelf plaatsen.</p>
+    </section>
+
+    <section>
+        <h2>Mijn Projecten</h2>
+        <p>Plaats hier informatie over je projecten, links naar repositories en eventueel live demo's.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Jouw Naam</p>
+    </footer>
+
+</body>
+</html>
